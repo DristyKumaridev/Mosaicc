@@ -39,7 +39,7 @@ Follow these steps to set up and run the project on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/mental-health-chatbot.git](https://github.com/your-username/mental-health-chatbot.git)
+    git clone https://github.com/DristyKumaridev/Mosaicc.git
     cd mental-health-chatbot
     ```
 
